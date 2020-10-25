@@ -13,6 +13,13 @@ HTML repair
 *Aside useed for (class="benefits")
 *alt tags added to photos
 *cost-management.png img is a self closing tag and </img> was removed
+*Footer Syntax used for the footer
+
+CSS Repair
+*remove two of the h3 lines and roll them all under one h3
+*remove two of the h2 lines and roll them all under one h2
+*set all of the images for benefits to roll under the parent of benefits
+*section images rolled under content for only one image
 
 
 
