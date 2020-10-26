@@ -85,20 +85,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     }
-    .benefit-lead {
-        margin-bottom: 32px;
-        color: #ffffff;
-    }
-    
-    .benefit-brand {
-        margin-bottom: 32px;
-        color: #ffffff;
-    }
-    
-    .benefit-cost {
-        margin-bottom: 32px;
-        color: #ffffff;
-    }    
+/* Consolidated css for the aside under "advantage" so that one css could be used three times*/
+.advantage {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
 /* removed the class identifier from the H3 to eliminate repetition */
 h3 {
     margin-bottom: 10px;
@@ -110,8 +102,8 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine-optimization {
+/* consolidated lines of business so that we only needed one css for  the three navigation landing points*/
+.business {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -120,23 +112,6 @@ h3 {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 /* roll all of the content images under that */
 .content img {
     max-height: 200px;
