@@ -18,6 +18,7 @@ HTML repair
 *created a "business" class for the navigation landing points so that it could be shared with all three and cut CSS input.
 *created an "advantage" class for the aside so that it could improve css
 *went back in and added some html comments
+*renamed a couple of syntax areas main and section
 
 CSS Repair
 *remove two of the h3 lines and roll them all under one h3
@@ -27,6 +28,8 @@ CSS Repair
 *Consolidated CSS for .content-sections
 *Consolidated CSS for "business" the landing points of the navigation bar
 *Consolidated CSS for the "advantage" aside
+
+
 
 
 
